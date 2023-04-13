@@ -1,0 +1,11 @@
+.LoginBg{
+    margin-bottom: 300px;
+}
+
+.LoginCard{
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid white;
+    margin-top: 150px;
+    height: 400px;
+}
